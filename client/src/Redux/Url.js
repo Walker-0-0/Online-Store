@@ -1,0 +1,1 @@
+export const URL = "https://onlinestore-348822.wm.r.appspot.com/"
